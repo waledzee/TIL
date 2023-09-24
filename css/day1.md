@@ -4,7 +4,7 @@
     ## secound learn the secletor and  properties in css file 
     ## thired  how to make a class and pass it to a spesicie input
 
-    # __types of writing css code __
+    #__types of writing css code__
     ## inline 
     ### this method when write css code in  input 
 
