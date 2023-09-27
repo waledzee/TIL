@@ -8,12 +8,17 @@
 .vip{
 
     background-color: red;
+    background-attachment: fixed;
+    background-position:100% 40% ;
+    background-size: contain;
 
 }
 .vip2{
 
-    background-image: url(img/image.jpeg);
+    /* background-image: url(img/image.jpeg); */
     background-color: #ff0000;
+    background-repeat: repeat;
+
 
 }
 
