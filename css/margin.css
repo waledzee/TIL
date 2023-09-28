@@ -1,0 +1,8 @@
+.marg{
+    background-color: #eee;
+    margin: 15px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
