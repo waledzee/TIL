@@ -15,7 +15,7 @@
 }
 .vip2{
 
-    /* background-image: url(img/image.jpeg); */
+     background-image: url("img/image.jpeg"); 
     background-color: #ff0000;
     background-repeat: repeat;
 
