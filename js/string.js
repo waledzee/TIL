@@ -33,3 +33,26 @@ console.log(embding);
 let badquote= 'a wise man once said "life is very fast and changeable"';
 
 console.log(badquote);
+
+// Access a specifi string character
+
+let str ="people";
+
+console.log(str[2]);
+
+// test if a string contains a sub string
+
+let str2="life is hard";
+
+console.log(str2.includes('hard')+" ask");
+console.log(str2.includes('waled'));
+
+
+// find the position of substring in a string
+
+console.log(str2.indexOf("hard"));
+
+let extract= str2.slice(0,4);
+
+console.log(extract);
+
